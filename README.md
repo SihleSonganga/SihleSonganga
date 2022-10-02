@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sihle Songanga</h1>
 <h3 align="center">I am mostly interested in Backend development, AI and ethical hacking, whilst keeping an open mind to everything else. I am passionate about solving problems using technology, and have an obsession with figuring out how and why things work the way they do. Currently studying <a href="https://wethinkcode.co.za">@WeThinkCode </a></h3>
 
-- 🌱 I’m currently learning **Python, Java, AWS, & TensorFlow**
+- 🌱 I’m currently learning **Python, Java, AWS, & Django**
 
 - 💬 Enjoy working in **Python, nothing against Java (or any other language), ...**
 
